@@ -20,3 +20,10 @@ title: title aaa
 | Terraform Script | Coming soon. |
 | Guides | Coming soon. |
 | Learning Content | Coming soon. |
+
+
+![](img/yugolf/map.png)
+
+---
+
+aaa
