@@ -22,7 +22,7 @@ title: title aaa
 | Learning Content | Coming soon. |
 
 
-![](img/yugolf/map.png)
+![](img/yugolf_map.png)
 
 ---
 
