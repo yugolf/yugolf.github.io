@@ -3,8 +3,7 @@ layout: default
 title: Hello high-availability
 ---
 
-Hello
-===
+AAAAA
 
 ## Concept
 
