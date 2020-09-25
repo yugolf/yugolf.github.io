@@ -2,7 +2,9 @@
 layout: default
 ---
 
-AAAAA
+- Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+- Using the Hello World guide, you’ll start a branch.
+- Using the Hello World guide, you’ll start a branch, write comments, and open a pull request, you’ll start a branch, you’ll start a branch.
 
 ## Concept
 
