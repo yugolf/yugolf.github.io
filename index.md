@@ -36,8 +36,8 @@ layout: default
 ![](img/yugolf_map.png)
 aaaaaa
 
-\  
-\  
+\
+\
 \* AAAAA  
 \* BBBB
 
