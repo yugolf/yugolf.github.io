@@ -34,7 +34,10 @@ layout: default
 [akka](https://akka.io/)
 
 ![](img/yugolf_map.png)
+aaaaaa
 
+\  
+\  
 \* AAAAA  
 \* BBBB
 
