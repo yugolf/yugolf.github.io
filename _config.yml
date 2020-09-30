@@ -3,3 +3,6 @@ title: yugolf home
 description: yugolf is aaabbbccc.
 github:
     repository_url: https://github.com/yugolf/
+
+plugins:
+ - jekyll-sitemap
