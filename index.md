@@ -44,7 +44,7 @@ aaaaaa
 
 ---
 
-aaa
+[scaladoc](scaladoc/index.html)
 
 <div>
   <!-- Global site tag (gtag.js) - Google Analytics -->
