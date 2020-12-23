@@ -25,14 +25,13 @@ aaa
 
 注釈のようなことを実現可能です<sup>[1](#note1)</sup>
 
-<small id="note1">無理やりですが</small>
 
 
 
 ## cccc
 - 22
 - 33
-<span id="3" style="font-size:x-small">3:状態変更のライフサイクルを管理する必要があるものをエンティティと呼びます</span>
+- <span id="3" style="font-size:x-small">3:状態変更のライフサイクルを管理する必要があるものをエンティティと呼びます</span>
 ![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 # DDD
@@ -51,6 +50,7 @@ aaa
 
 aaaaaa
 
+<small id="note1">1</small>無理やりですが
 \
 \
 \* AAAAA  
