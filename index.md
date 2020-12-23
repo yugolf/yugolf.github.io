@@ -50,8 +50,7 @@ aaa
 
 aaaaaa
 
-- <small id="1">1</small>無理やりですが
-- <span id="1" style="font-size:x-small">1: 注釈の内容</span>
+- <span id="1">1: 注釈の内容</span>
 
 \
 \
