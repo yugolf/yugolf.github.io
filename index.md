@@ -10,7 +10,7 @@ layout: default
 
 ### abc
 
-
+<span id="1" style="font-size:x-small">1: 注釈の内容</span>
 - 外部設計[^1] が確認できる状況であること
 aa
 
@@ -23,14 +23,13 @@ aa
 エンティティ[^3]があるとします。外部システムに委譲した決済処理が成功した場合、そのイベントは「決済成功」と命名するよりも「決済成功確認」と命名するほうが望ましいです。
 aaa
 
-[^3]: 状態変更のライフサイクルを管理する必要があるものをエンティティと呼びます
 
 
 
 ## cccc
 - 22
 - 33
-
+<span id="3" style="font-size:x-small">3:状態変更のライフサイクルを管理する必要があるものをエンティティと呼びます</span>
 ![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 # DDD
