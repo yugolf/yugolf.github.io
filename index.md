@@ -10,7 +10,7 @@ layout: default
 
 ### abc
 
-<span id="1" style="font-size:x-small">1: 注釈の内容</span>
+
 - 外部設計[^1] が確認できる状況であること
 aa
 
@@ -51,6 +51,7 @@ aaa
 aaaaaa
 
 - <small id="1">1</small>無理やりですが
+- <span id="1" style="font-size:x-small">1: 注釈の内容</span>
 
 \
 \
