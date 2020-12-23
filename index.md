@@ -50,7 +50,7 @@ aaa
 
 aaaaaa
 
-- <span id="1">1: 注釈の内容</span>
+- <span id="1">1. 注釈の内容</span>
 
 \
 \
