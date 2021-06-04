@@ -35,6 +35,8 @@ layout: default
 
 ![](img/yugolf_map.png)  
 
+![](img/lerna_content_map_en.svg)  
+
 aaaaaa
 
 \
