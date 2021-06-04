@@ -11,14 +11,27 @@ layout: default
 ### abc
 
 
+- 外部設計[^1] が確認できる状況であること
+aa
+
+[^1] : 本書では「外部システム・サブシステム・ユーザーとインターフェイスを合意するための設計」とみなしています。例えば、HTTP API の仕様や、画面定義、共通利用する（RDBMSの）テーブル定義などが含まれると想定しています。
+
 # bbbbb
 - 000
 - 1111
 
+エンティティ[^3](#3)があるとします。外部システムに委譲した決済処理が成功した場合、そのイベントは「決済成功」と命名するよりも「決済成功確認」と命名するほうが望ましいです。
+aaa
+
+注釈のようなことを実現可能です<sup>[1](#note1)</sup>
+
+
+
+
 ## cccc
 - 22
 - 33
-
+- <span id="3" style="font-size:x-small">3:状態変更のライフサイクルを管理する必要があるものをエンティティと呼びます</span>
 ![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 # DDD
@@ -38,6 +51,8 @@ layout: default
 ![](img/lerna_content_map_en.svg)  
 
 aaaaaa
+
+- <span id="note1">1. ああああポートや DB のコネクションプールなど、有限のリソースを無駄に消費し、大</span>
 
 \
 \
