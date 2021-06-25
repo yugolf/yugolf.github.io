@@ -51,6 +51,9 @@ aaa
 - svg Full　ｖ
 <object type="image/svg+xml"  data="https://raw.githubusercontent.com/yugolf/yugolf.github.io/master/img/lerna_content_map_en.svg"></object>
 
+- svg CDN
+<object type="image/svg+xml" data="https://cdn.jsdelivr.net/gh/lerna-stack/lerna-stack.github.io@master/img/lerna_content_list_en.drawio.svg"></object>
+
 - svg Img
  <object type="image/svg+xml"  data="img/lerna_content_map_en.svg"></object>
 
