@@ -48,7 +48,10 @@ aaa
 
 ![](img/yugolf_map.png)  
 
-- svg
+- svg Full
+<object type="image/svg+xml"  data="https://github.com/yugolf/yugolf.github.io/blob/master/img/lerna_content_map_en.svg"></object>
+
+- svg Img
  <object type="image/svg+xml"  data="img/lerna_content_map_en.svg"></object>
 
 - <span id="note1">1. ああああポートや DB のコネクションプールなど、有限のリソースを無駄に消費し、大</span>
