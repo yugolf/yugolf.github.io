@@ -73,6 +73,9 @@ aaa
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/z5PCknVjHaFfxz" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/yugolf/ss-243892298" title="Reactive systems that focus on availability" target="_blank">Reactive systems that focus on availability</a> </strong> </div>
 
+<iframe src="https://speakerdeck.com/player/0b8606f26e2448719c33257ad2f9f6a2" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<div style="margin-bottom:5px"> <strong> <a href="https://speakerdeck.com/player/0b8606f26e2448719c33257ad2f9f6a2" title="Challenged to reduce stateful application downtime to less than 10 seconds" target="_blank">Challenged to reduce stateful application downtime to less than 10 seconds</a></strong> </div>
+
 
 ---
 
