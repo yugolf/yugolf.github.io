@@ -48,8 +48,8 @@ aaa
 
 ![](img/yugolf_map.png)  
 
-- svg !
-![](https://cdn.jsdelivr.net/gh/lerna-stack/lerna-stack.github.io@master/img/lerna_content_map_en.svg)  
+- svg !!
+![](https://cdn.jsdelivr.net/gh/lerna-stack/lerna-stack.github.io@master/img/lerna_content_list_en.drawio.svg)  
 
 - svg Full　ｖ
 <object type="image/svg+xml"  data="https://raw.githubusercontent.com/yugolf/yugolf.github.io/master/img/lerna_content_map_en.svg"></object>
