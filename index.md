@@ -66,6 +66,13 @@ aaa
 \
 \* AAAAA  
 \* BBBB
+---
+
+
+## Slides
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/z5PCknVjHaFfxz" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/yugolf/ss-243892298" title="Reactive systems that focus on availability" target="_blank">Reactive systems that focus on availability</a> </strong> </div>
+
 
 ---
 
