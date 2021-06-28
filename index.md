@@ -8,6 +8,8 @@ layout: default
 
 ## Concept
 
+<object type="image/svg+xml" data="https://cdn.jsdelivr.net/gh/lerna-stack/lerna-stack.github.io@master/img/lerna_overview_en.drawio.svg"></object>
+
 ### abc
 
 
